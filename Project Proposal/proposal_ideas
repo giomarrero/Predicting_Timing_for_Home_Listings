@@ -1,0 +1,11 @@
+# Possible Ideas
+
+## Zillow Housing Analysis
+
+Could go a couple of ways with this Zillow dataset: https://www.zillow.com/research/data/
+
+Was particularly interested in the data that is maintained on how long for-sale homes stay on the market, could use a simple regression or a more complex approach.
+
+## Airbnb Listing Availability
+
+Use historic Aribnb listing data to predict demand on a given time of year. Would have interesting data segmentation choices. http://insideairbnb.com/get-the-data
