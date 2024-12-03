@@ -1,0 +1,26 @@
+Goal is to map each file below to its business description
+
+
+Dependent Variable:
+
+Metro_med_doz_pending_uc_sfrcondo_week = Days to Pending: How long it takes homes in a region to change to pending status on Zillow.com after first being shown as for sale. 
+The reported figure indicates the number of days (mean or median) that it took for homes that went pending during the week being reported, to go pending. 
+This differs from the old “Days on Zillow” metric in that it excludes the in-contract period before a home sells.
+
+
+Independent Variables:
+
+Metro_invt_fs_uc_sfrcondo_week = For-Sale Inventory: The count of unique listings that were active at any time in a given month.
+
+Metro_new_listings_uc_sfrcondo_week = New Listings: Indicates how many new listings have come on the market in a given month. 
+
+Metro_mlp_uc_sfrcondo_week = Median List Price: The median price at which homes across various geographies were listed. (Zillow)  
+
+Metro_median_sale_price_uc_sfrcondo_week = Median Sale Price: The median price at which homes across various geographies were sold. (Zillow)  
+
+Metro_med_listings_price_cut_amt_uc_sfrcondo_week = Median Price Cuts: The median price cut for listings in a given region during a given time period in dollars ($).  
+
+Metro_perc_listings_price_cut_uc_sfrcondo_week = Share of Listings with a Price Cut: The number of unique properties with a list price at the end of the month that’s 
+less than the list price at the beginning of the month, divided by the number of unique properties with an active listing at some point during the month.
+
+Metro_new_pending_uc_sfrcondo_week = Newly Pending Listings: The count of listings that changed from for-sale to pending status on Zillow.com in a given time period.
