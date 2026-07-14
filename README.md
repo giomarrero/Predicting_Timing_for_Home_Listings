@@ -22,14 +22,8 @@ We used both an artificial neural network and a few iterations of multiple linea
 
 ## Credits
 
-Big shoutout to @chau2450 (Nildip Chaudhuri) as he took on the bulk of the initial modeling work, as well as the final version of our ETL framework. 
-
-@eeuler3 (Erik Euler) handled the initial ETL approach, stitching together our data sources together for our progress report and initial exploratory modeling, as well as visualizations and consolidation and cleaning of the modeling approach into the final notebook. 
-
-@gmarrero30 (Gio Marrero) did the exploratory modeling for the progress report, data manipulation, and detailed the modeling approaches for the final paper. 
-
-@mpaknejad3 (Mary Paknejad) handled the consolidation of the progress report and final paper, as well as some of the visualizations. 
-
-@nsienicki3 (Nick Sienicki) handled the documentation of the approach and motivations for the progress report, as well as the results discussion and conclusion for the final paper. 
-
-Throughout, each of the group members plugged in where neccesary, forming a great partnership.   
+Nildip Chaudhuri
+Erik Euler
+Giovanni  Marrero
+Mary Paknejad
+Nick Sienicki 
